@@ -1,7 +1,5 @@
 # Algorithmic Trading in Python
 
-This repository
-
 ## Course From CodeAcademy
 
 * Section 1: Algorithmic Trading Fundamentals
