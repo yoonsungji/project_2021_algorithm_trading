@@ -1,8 +1,6 @@
 # Algorithmic Trading in Python
 
-This repository
-
-## Course Outline
+## Course From CodeAcademy
 
 * Section 1: Algorithmic Trading Fundamentals
   * What is Algorithmic Trading?
@@ -19,13 +17,13 @@ This repository
   * Calculating Weights
   * Generating Our Output File
   * Additional Project Ideas
-* Section 4: Building A Quantitative Momentum Investing Strategy
+* Section 4: Building A Quantitative Momentum Investing Strategy (WORKING ON)
   * Theory & Concepts
   * Pulling Data For Our Constituents
   * Calculating Weights
   * Generating Our Output File
   * Additional Project Ideas
-* Section 5: Building A Quantitative Value Investing Strategy
+* Section 5: Building A Quantitative Value Investing Strategy (WORKING ON)
   * Theory & Concepts
   * Importing our Constituents
   * Pulling Data For Our Constituents
