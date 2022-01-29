@@ -17,7 +17,7 @@
   * Calculating Weights
   * Generating Our Output File
   * Additional Project Ideas
-* Section 4: Building A Quantitative Momentum Investing Strategy (ON HOLD - Error in Calculating Momentum Percentiles) 
+* Section 4: Building A Quantitative Momentum Investing Strategy
   * Theory & Concepts
   * Pulling Data For Our Constituents
   * Calculating Weights
