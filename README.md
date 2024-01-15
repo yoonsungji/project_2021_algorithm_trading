@@ -1,6 +1,6 @@
 # Algorithmic Trading in Python
 
-## Course From CodeAcademy
+## An Extension of CodeAcademy Course
 
 * Section 1: Algorithmic Trading Fundamentals
   * What is Algorithmic Trading?
@@ -13,12 +13,6 @@
 * Section 3: Building An Equal-Weight S&P 500 Index Fund
   * Theory & Concepts
   * Importing our Constituents
-  * Pulling Data For Our Constituents
-  * Calculating Weights
-  * Generating Our Output File
-  * Additional Project Ideas
-* Section 4: Building A Quantitative Momentum Investing Strategy
-  * Theory & Concepts
   * Pulling Data For Our Constituents
   * Calculating Weights
   * Generating Our Output File
